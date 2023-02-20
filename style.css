@@ -142,12 +142,10 @@ a.kanri1{
 
 .chat10{
     font-size:30px;
-}
-
+};
 .sulot{
   margin-right: 10px;
-}
-
+};
 .ssslot{
   overflow: auto;
   margin: left 50px;
@@ -158,8 +156,7 @@ a.kanri1{
   position: absolute;
   right: 0;
   top: 700;
-}
-
+};
 .sslot{
   position: absolute;
   right: 50;
